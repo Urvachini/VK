@@ -8,4 +8,5 @@ public class Post {
     private CommentsInfo commentsInfo;
 
     // +get/set for every field
+
 }
