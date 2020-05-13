@@ -5,4 +5,5 @@ public class CommentsInfo {
     private boolean canPost;
 
     // +get/set for every field
+
 }

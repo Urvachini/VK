@@ -11,4 +11,5 @@ public class Offer {
     private Image testsPic;
 
     // +get/set for every field
+
 }

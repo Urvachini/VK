@@ -7,4 +7,5 @@ public class Header {
     private String headerText;
 
     // +get/set for every field
+
 }

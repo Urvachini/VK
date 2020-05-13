@@ -8,4 +8,5 @@ public class Information {
     private String moreInfo;
 
     // +get/set for every field
+
 }

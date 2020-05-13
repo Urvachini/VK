@@ -10,5 +10,6 @@ public class Follower {
         int follower6;
 
         // +get/set for every field
+
     }
 }

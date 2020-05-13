@@ -10,5 +10,4 @@ public class Article {
     private Image article2Pic;
 
     // +get/set for every field
-
 }

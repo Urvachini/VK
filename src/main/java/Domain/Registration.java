@@ -7,4 +7,5 @@ public class Registration {
     public boolean signUp;
 
     // +get/set for every field
+
 }

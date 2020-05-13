@@ -7,4 +7,5 @@ public class Commercial {
     private String themeMailing;
 
     // +get/set for every field
+
 }

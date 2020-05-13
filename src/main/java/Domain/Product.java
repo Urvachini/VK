@@ -17,4 +17,5 @@ public class Product {
 
     // +get/set for every field
 
+
 }
