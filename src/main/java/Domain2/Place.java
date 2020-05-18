@@ -16,4 +16,5 @@ public class Place {
     private int checkIns;
     private int upDated;
     private int address;
+
 }
