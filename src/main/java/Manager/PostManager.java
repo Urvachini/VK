@@ -6,11 +6,12 @@ public class PostManager {
     private Post[] posts;
 
 
-    public Post[] search(int ownerId, String domain, String query, boolean ownersOnly, int count, int offset) {
+    public Post[] search(WallSearchRequest sea) {
         return null;
     }
 
-    public void delete(int ownerId, int postId) {
+    public boolean delete(WallDeleteRequest del) {
+        return true;
     }
 
 }

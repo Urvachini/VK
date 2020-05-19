@@ -1,6 +1,6 @@
 package Manager;
 
-public class WallDelete {
+public class WallDeleteRequest {
     private int ownerId;
     private int postId;
 
